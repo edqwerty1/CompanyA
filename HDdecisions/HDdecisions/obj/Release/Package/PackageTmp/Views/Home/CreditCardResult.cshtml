@@ -1,0 +1,32 @@
+﻿
+@using HDdecisions.Domain.Entities
+
+@model HDdecisions.Domain.Entities.Response
+
+@switch(Model)
+{
+    case HDdecisions.Domain.Entities.Response.NoCardsAvailable  :
+        <text>
+            <h1>@Model.GetDescription()</h1>
+        </text>
+            break;
+    case HDdecisions.Domain.Entities.Response.Barclaycard :
+    <text>
+        <h1>@Model.GetDescription()</h1>
+<img src="@Url.Content(@Model.GetUrl())" alt="" />
+    </text>
+        break;
+    case HDdecisions.Domain.Entities.Response.Vanquis :
+    <text>
+        <h1>@Model.GetDescription()</h1>
+<img src="@Url.Content(@Model.GetUrl())" alt="" />
+    </text>
+        break;
+    default :
+    <text>
+        <h1>@Model.GetDescription()</h1>
+    </text>
+        break;
+
+
+}

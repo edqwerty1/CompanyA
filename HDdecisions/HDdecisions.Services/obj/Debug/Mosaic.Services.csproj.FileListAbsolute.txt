@@ -1,0 +1,14 @@
+G:\Mosaic\Mosaic\Mosaic.Services\bin\Debug\Mosaic.Services.dll
+G:\Mosaic\Mosaic\Mosaic.Services\bin\Debug\Mosaic.Services.pdb
+G:\Mosaic\Mosaic\Mosaic.Services\bin\Debug\Mosaic.Domain.dll
+G:\Mosaic\Mosaic\Mosaic.Services\bin\Debug\Mosaic.Domain.pdb
+G:\Mosaic\Mosaic\Mosaic.Services\obj\Debug\Mosaic.Services.csprojResolveAssemblyReference.cache
+G:\Mosaic\Mosaic\Mosaic.Services\obj\Debug\Mosaic.Services.dll
+G:\Mosaic\Mosaic\Mosaic.Services\obj\Debug\Mosaic.Services.pdb
+G:\HDdecisions\HDdecisions\HDdecisions.Services\bin\Debug\Mosaic.Services.dll
+G:\HDdecisions\HDdecisions\HDdecisions.Services\bin\Debug\Mosaic.Services.pdb
+G:\HDdecisions\HDdecisions\HDdecisions.Services\bin\Debug\Mosaic.Domain.dll
+G:\HDdecisions\HDdecisions\HDdecisions.Services\bin\Debug\Mosaic.Domain.pdb
+G:\HDdecisions\HDdecisions\HDdecisions.Services\obj\Debug\Mosaic.Services.csprojResolveAssemblyReference.cache
+G:\HDdecisions\HDdecisions\HDdecisions.Services\obj\Debug\Mosaic.Services.dll
+G:\HDdecisions\HDdecisions\HDdecisions.Services\obj\Debug\Mosaic.Services.pdb

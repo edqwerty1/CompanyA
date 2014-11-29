@@ -1,0 +1,50 @@
+﻿@using HDdecisions.Domain.Entities
+@model IEnumerable<HDdecisions.Models.ApplicantsViewModel>
+
+@{
+    ViewBag.Title = "Applicants";
+}
+
+<h2>Applicants</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateOfBirth)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AnnualIncome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LastUsed)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Response)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.FirstName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateOfBirth)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AnnualIncome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LastUsed)
+        </td>
+        <td>
+            @item.Response.GetDescription()
+        </td>
+    </tr>
+}
+
+</table>

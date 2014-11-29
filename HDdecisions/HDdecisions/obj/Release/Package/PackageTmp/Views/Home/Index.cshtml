@@ -1,0 +1,17 @@
+﻿
+@model HDdecisions.Models.ApplicationViewModel
+
+    @{
+    ViewBag.Title = "Application";
+    }
+
+    <link href="//code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css" rel="stylesheet" />
+    <h2>Application</h2>
+
+    <div id="creditCardResult">
+
+        @Html.Partial("ApplicationForm", Model)
+</div>
+
+
+    

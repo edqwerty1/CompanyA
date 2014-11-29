@@ -1,0 +1,10 @@
+G:\Mosaic\Mosaic\Mosaic.Domain\bin\Debug\Mosaic.Domain.dll
+G:\Mosaic\Mosaic\Mosaic.Domain\bin\Debug\Mosaic.Domain.pdb
+G:\Mosaic\Mosaic\Mosaic.Domain\obj\Debug\Mosaic.Domain.csprojResolveAssemblyReference.cache
+G:\Mosaic\Mosaic\Mosaic.Domain\obj\Debug\Mosaic.Domain.dll
+G:\Mosaic\Mosaic\Mosaic.Domain\obj\Debug\Mosaic.Domain.pdb
+G:\HDdecisions\HDdecisions\HDdecisions.Domain\bin\Debug\Mosaic.Domain.dll
+G:\HDdecisions\HDdecisions\HDdecisions.Domain\bin\Debug\Mosaic.Domain.pdb
+G:\HDdecisions\HDdecisions\HDdecisions.Domain\obj\Debug\Mosaic.Domain.csprojResolveAssemblyReference.cache
+G:\HDdecisions\HDdecisions\HDdecisions.Domain\obj\Debug\Mosaic.Domain.dll
+G:\HDdecisions\HDdecisions\HDdecisions.Domain\obj\Debug\Mosaic.Domain.pdb

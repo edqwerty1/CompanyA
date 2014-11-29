@@ -1,0 +1,9 @@
+G:\HDdecisions\HDdecisions\HDdecisions.Services\bin\Release\HDdecisions.Services.dll
+G:\HDdecisions\HDdecisions\HDdecisions.Services\bin\Release\HDdecisions.Services.pdb
+G:\HDdecisions\HDdecisions\HDdecisions.Services\bin\Release\HDdecisions.Domain.dll
+G:\HDdecisions\HDdecisions\HDdecisions.Services\bin\Release\EntityFramework.dll
+G:\HDdecisions\HDdecisions\HDdecisions.Services\bin\Release\HDdecisions.Domain.pdb
+G:\HDdecisions\HDdecisions\HDdecisions.Services\bin\Release\EntityFramework.xml
+G:\HDdecisions\HDdecisions\HDdecisions.Services\obj\Release\HDdecisions.Services.csprojResolveAssemblyReference.cache
+G:\HDdecisions\HDdecisions\HDdecisions.Services\obj\Release\HDdecisions.Services.dll
+G:\HDdecisions\HDdecisions\HDdecisions.Services\obj\Release\HDdecisions.Services.pdb

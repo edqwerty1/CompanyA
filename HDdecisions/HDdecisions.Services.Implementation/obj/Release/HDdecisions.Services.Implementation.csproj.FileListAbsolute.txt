@@ -1,0 +1,14 @@
+G:\HDdecisions\HDdecisions\HDdecisions.Services.Implementation\bin\Release\HDdecisions.Services.Implementation.dll.config
+G:\HDdecisions\HDdecisions\HDdecisions.Services.Implementation\bin\Release\HDdecisions.Services.Implementation.dll
+G:\HDdecisions\HDdecisions\HDdecisions.Services.Implementation\bin\Release\HDdecisions.Services.Implementation.pdb
+G:\HDdecisions\HDdecisions\HDdecisions.Services.Implementation\bin\Release\EntityFramework.dll
+G:\HDdecisions\HDdecisions\HDdecisions.Services.Implementation\bin\Release\EntityFramework.SqlServer.dll
+G:\HDdecisions\HDdecisions\HDdecisions.Services.Implementation\bin\Release\HDdecisions.Domain.dll
+G:\HDdecisions\HDdecisions\HDdecisions.Services.Implementation\bin\Release\HDdecisions.Services.dll
+G:\HDdecisions\HDdecisions\HDdecisions.Services.Implementation\bin\Release\HDdecisions.Domain.pdb
+G:\HDdecisions\HDdecisions\HDdecisions.Services.Implementation\bin\Release\HDdecisions.Services.pdb
+G:\HDdecisions\HDdecisions\HDdecisions.Services.Implementation\bin\Release\EntityFramework.xml
+G:\HDdecisions\HDdecisions\HDdecisions.Services.Implementation\bin\Release\EntityFramework.SqlServer.xml
+G:\HDdecisions\HDdecisions\HDdecisions.Services.Implementation\obj\Release\HDdecisions.Services.Implementation.csprojResolveAssemblyReference.cache
+G:\HDdecisions\HDdecisions\HDdecisions.Services.Implementation\obj\Release\HDdecisions.Services.Implementation.dll
+G:\HDdecisions\HDdecisions\HDdecisions.Services.Implementation\obj\Release\HDdecisions.Services.Implementation.pdb

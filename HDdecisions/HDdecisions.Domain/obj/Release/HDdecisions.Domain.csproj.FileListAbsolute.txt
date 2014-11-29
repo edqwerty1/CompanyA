@@ -1,0 +1,9 @@
+G:\HDdecisions\HDdecisions\HDdecisions.Domain\bin\Release\HDdecisions.Domain.dll.config
+G:\HDdecisions\HDdecisions\HDdecisions.Domain\bin\Release\HDdecisions.Domain.dll
+G:\HDdecisions\HDdecisions\HDdecisions.Domain\bin\Release\HDdecisions.Domain.pdb
+G:\HDdecisions\HDdecisions\HDdecisions.Domain\bin\Release\EntityFramework.dll
+G:\HDdecisions\HDdecisions\HDdecisions.Domain\bin\Release\EntityFramework.SqlServer.dll
+G:\HDdecisions\HDdecisions\HDdecisions.Domain\bin\Release\EntityFramework.xml
+G:\HDdecisions\HDdecisions\HDdecisions.Domain\bin\Release\EntityFramework.SqlServer.xml
+G:\HDdecisions\HDdecisions\HDdecisions.Domain\obj\Release\HDdecisions.Domain.dll
+G:\HDdecisions\HDdecisions\HDdecisions.Domain\obj\Release\HDdecisions.Domain.pdb
